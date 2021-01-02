@@ -15,15 +15,13 @@
 
 # A list of assignees
 assignees:
-   - amahendrakar
-   - ravikyram
-   - Saduf2019
+   - YumYum6
 # A list of assignees for compiler folder
 compiler_assignees:
-   - joker-eph
+   - ARI
 # filesystem path
 filesystem_path:
-   - tensorflow/c/experimental/filesystem
+   - tensorflow/.github/bot_config.yml
 # security path
 security_path:
    - tensorflow/security
@@ -33,7 +31,7 @@ segfault_memory:
    - memory leaks
 # assignees
 filesystem_security_assignee:
-   - mihaimaruseac
+   - ARI
    
 tflite_micro_path:
    - tensorflow/lite/micro
