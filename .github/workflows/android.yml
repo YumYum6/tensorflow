@@ -1,7 +1,6 @@
 name: AI.defender
 on: Android 10 LM-K500UM
   push:
-  - main 
     - release/*
     branches: [  ]
   pull_request:
